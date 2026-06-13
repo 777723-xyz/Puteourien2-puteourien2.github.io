@@ -11,8 +11,8 @@ body, c'est le style de la page, nav c'est le style de la barre de navigation, u
 */
 body {
   padding: 25px;
-  background-color: linear-gradient (to right, #8200C4, #C385E6);
-  color: black;
+  background-color: linear-gradient(to right, #8200C4, #C385E6);
+  color: #000;
   font-size: 25px;
 }
 nav {
